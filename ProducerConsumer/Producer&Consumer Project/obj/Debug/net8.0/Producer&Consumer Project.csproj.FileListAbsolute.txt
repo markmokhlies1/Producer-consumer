@@ -1,0 +1,36 @@
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.csproj.AssemblyReference.cache
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.AssemblyInfoInputs.cache
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.AssemblyInfo.cs
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.csproj.CoreCompileInputs.cache
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.MvcApplicationPartsAssemblyInfo.cs
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.MvcApplicationPartsAssemblyInfo.cache
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\appsettings.Development.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\appsettings.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.staticwebassets.endpoints.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.exe
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.deps.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.runtimeconfig.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Producer&Consumer Project.pdb
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\scopedcss\bundle\Producer&Consumer Project.styles.css
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets\msbuild.Producer&Consumer Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets\msbuild.Producer&Consumer Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Producer&Consumer Project.props
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Producer&Consumer Project.props
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Producer&Consumer Project.props
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer.F2853192.Up2Date
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\refint\Producer&Consumer Project.dll
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.pdb
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\Producer&Consumer Project.genruntimeconfig.cache
+D:\OOP Projectes FOE\ProducerConsumer\Producer&Consumer Project\obj\Debug\net8.0\ref\Producer&Consumer Project.dll

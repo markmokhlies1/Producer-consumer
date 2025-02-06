@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Producer&amp;Consumer Project.props" />
+</Project>

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Producer_Consumer_Project.Controllers.systemControllers",
+    "Method": "AddProduct",
+    "RelativePath": "api/systemControllers/add_product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Producer_Consumer_Project.Controllers.systemControllers",
+    "Method": "GetChanges",
+    "RelativePath": "api/systemControllers/get_changes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Producer_Consumer_Project.Controllers.systemControllers",
+    "Method": "StartSimulation",
+    "RelativePath": "api/systemControllers/start_simulate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Producer_Consumer_Project.DTOS.Dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
